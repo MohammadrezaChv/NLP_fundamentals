@@ -46,7 +46,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries, feel free to reach out at [your.email@example.com](mailto:your.email@example.com) or open an issue in the repository.
+For any queries, feel free to reach out at [your.email@example.com](mailto:mohammadreza.chv7@gmail.com) or open an issue in the repository.
 
 
 
